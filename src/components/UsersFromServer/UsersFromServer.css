@@ -1,0 +1,8 @@
+#cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  font-size: small;
+  overflow-wrap: break-word;
+}

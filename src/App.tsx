@@ -1,12 +1,9 @@
 import "./App.css";
-import { Example } from "./components/Example/Example";
+// import { Example } from "./components/Example/Example";
+import UsersFromServer from "./components/UsersFromServer/UsersFromServer";
 
 function App() {
-  return (
-    <>
-      <Example />{" "}
-    </>
-  );
+  return <UsersFromServer />;
 }
 
 export default App;

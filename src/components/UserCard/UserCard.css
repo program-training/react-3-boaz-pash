@@ -1,0 +1,9 @@
+#user-card {
+  /* display: flex; */
+  /* display: table; */
+  width: 20%;
+  background-color:black;
+  margin: 2%;
+  font-size: small;
+  cursor: pointer;
+}
